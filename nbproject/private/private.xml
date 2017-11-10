@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/app/config/prod.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/src/model.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/app/routes.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/db/structure.sql</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/src/Domain/Article.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/web/lib/bootstrap/css/bootstrap.css</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/app/config/dev.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/views/article.html.twig</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/app/app.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/composer.json</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/db/content.sql</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/newhtml.html</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/web/index.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/src/DAO/CommentDAO.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/views/index.html.twig</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/views/layout.html.twig</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/src/Domain/Comment.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/web/css/microcms.css</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/src/DAO/ArticleDAO.php</file>
+            <file>file:/C:/xampp/htdocs/Silex_HoudaJa/src/DAO/DAO.php</file>
+        </group>
+    </open-files>
+</project-private>
